@@ -12,7 +12,7 @@ The exercises below are to be done during and following your viewing of the reso
 
 [**MEDIUM:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/medium/index.html) Create a program that accepts a number (1-12) as input and logs to the console that number and its corresponding month. For example: if the user enters the number 3, then it should return the month “March.” Alert the user if they enter an invalid number (e.g. less than 1 or greater than 12).
  
-[**HARD:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/hardindex.html) Given the information below for Tom and Jerry. 
+[**HARD:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/hard/index.html) Given the information below for Tom and Jerry. 
 Tom -     height:  9in       mass: 8 g
 Jerry -     height: 10in     mass: 45 g
 
