@@ -6,13 +6,13 @@
 
 The exercises below are to be done during and following your viewing of the resources.  Please push your completed project to a repository on Github.  Provide the link to your repo. Each activity should be appropriately labeled in its own folder.
 
-**VERY EASY:** Write a function named min that takes two arguments and returns their minimum.
+[**VERY EASY:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/very-easy/index.html) Write a function named min that takes two arguments and returns their minimum.
 
-**EASY:** Create an array of students holding their last name, first name, and age with 3 students. To validate, please log a greeting with the first name, last name and age of the 2nd student. The output should look like "Hello, my name is John Doe and I'm 19 years old."
+[**EASY:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/easy/index.html) Create an array of students holding their last name, first name, and age with 3 students. To validate, please log a greeting with the first name, last name and age of the 2nd student. The output should look like "Hello, my name is John Doe and I'm 19 years old."
 
-**MEDIUM:** Create a program that accepts a number (1-12) as input and logs to the console that number and its corresponding month. For example: if the user enters the number 3, then it should return the month “March.” Alert the user if they enter an invalid number (e.g. less than 1 or greater than 12).
+[**MEDIUM:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/medium/index.html) Create a program that accepts a number (1-12) as input and logs to the console that number and its corresponding month. For example: if the user enters the number 3, then it should return the month “March.” Alert the user if they enter an invalid number (e.g. less than 1 or greater than 12).
  
-**HARD:** Given the information below for Tom and Jerry. 
+[**HARD:**](https://rodrigopimentel.github.io/gds-tech-fellowship-javascript-part-two/hardindex.html) Given the information below for Tom and Jerry. 
 Tom -     height:  9in       mass: 8 g
 Jerry -     height: 10in     mass: 45 g
 
